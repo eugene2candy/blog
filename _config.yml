@@ -42,8 +42,12 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
 google_analytics: UA-63706050-1
 
 disqus:
   shortname: sonjasper
+
+paginate: 5
+paginate_path: "/page/:num"
