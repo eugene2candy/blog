@@ -261,3 +261,5 @@ To build just the PAE kernel packages use:
 When the build completes, your custom kernel rpm files will be found in the ~/rpmbuild/RPMS/<tt>`uname -m`</tt>/ directory. Make sure that you install those files, as **root**, using an *rpm -ivh kernel-*.rpm *command. Note: If you have built a kernel version that is older than a currently installed version you will also have to use the *--oldpackage* flag with the rpm command.
 
 **UNDER NO CIRCUMSTANCES** use an *rpm -Uvh* command to install your kernel as this will update (overwrite) the currently installed version.  Hence if you have a problem with your custom kernel, you will not be able to revert to the previous, working, version.
+
+If you like my article, click the <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZK2HJKF2RFMWA" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg" height="22" /></a> button and support me :D

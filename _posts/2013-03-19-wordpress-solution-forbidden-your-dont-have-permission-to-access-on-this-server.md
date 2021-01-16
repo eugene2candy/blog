@@ -25,5 +25,4 @@ tags: []
 
 因此我将超链接改成了/priblog，去掉了index.php，让访问请求自己去请求访问。然后就可以正常读取网页的加密页，解除forbidden故障了~
 
-
-
+If you like my article, click the <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZK2HJKF2RFMWA" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg" height="22" /></a> button and support me :D

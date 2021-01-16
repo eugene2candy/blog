@@ -350,3 +350,5 @@ See also:
 *   Kmod rpm building [http://www.kerneldrivers.org/RedHatKernelModulePackages](http://www.kerneldrivers.org/RedHatKernelModulePackages) and [http://fedoraproject.org/wiki/Obsolete/KernelModules](http://fedoraproject.org/wiki/Obsolete/KernelModules)
 *   The white paper [http://driverupdateprogram.com/presentations/DriverUpdateProgramTechnical.pdf](http://driverupdateprogram.com/presentations/DriverUpdateProgramTechnical.pdf)
 *   General rpm building [http://docs.fedoraproject.org/drafts/rpm-guide-en/ch08s02.html](http://docs.fedoraproject.org/drafts/rpm-guide-en/ch08s02.html)
+
+If you like my article, click the <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZK2HJKF2RFMWA" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg" height="22" /></a> button and support me :D

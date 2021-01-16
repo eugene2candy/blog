@@ -37,3 +37,7 @@ and
 **Wechat**: sonjasper_me  
 **Weibo**:  XV15  
 **WebSite**:  [sonjasper.com](https://sonjasper.com/)  
+
+# Buy me a coffee
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZK2HJKF2RFMWA" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg" height="33" /></a>

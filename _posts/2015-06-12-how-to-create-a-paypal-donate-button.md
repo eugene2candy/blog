@@ -49,4 +49,4 @@ Just click Button erstellen. All done! You got the HTML code and a web address.
 
 Then you could put the donate button in your website :P
 
-If you like my article, click the [DONATE](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZK2HJKF2RFMWA) button and support me :D
+If you like my article, click the <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ZK2HJKF2RFMWA" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-blue.svg" height="22" /></a> button and support me :D
