@@ -6,6 +6,7 @@ author: CHENGJIE XU
 comments: true
 categories: []
 tags: []
+meta: ["Solution", "Tech"]
 ---
 
 You could try 1 year free AWS service before you pay it.

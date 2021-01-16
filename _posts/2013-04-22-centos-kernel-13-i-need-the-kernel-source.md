@@ -6,6 +6,7 @@ author: CHENGJIE XU
 comments: true
 categories: []
 tags: []
+meta: "Tech"
 ---
 
 # 1. Maybe you do not need the full kernel source

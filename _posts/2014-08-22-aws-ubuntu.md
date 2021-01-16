@@ -6,6 +6,7 @@ author: CHENGJIE XU
 comments: true
 categories: []
 tags: []
+meta: ["Solution", "Tech"]
 ---
 
 **转发请注明出处：<a title="https://blog.sonjasper.com/2014/08/22/aws-ubuntu.html" href="https://blog.sonjasper.com/2014/08/22/aws-ubuntu.html" target="_blank"><span style="color: #666666;">https://blog.sonjasper.com/2014/08/22/aws-ubuntu.html</span></a>**

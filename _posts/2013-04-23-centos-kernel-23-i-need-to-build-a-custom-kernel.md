@@ -6,6 +6,7 @@ author: CHENGJIE XU
 comments: true
 categories: []
 tags: []
+meta: "Tech"
 ---
 
 There are two ways to build a custom kernel for CentOS. One is to build a kernel with custom options from the CentOS sources and the other is to build a mainline kernel using sources obtained from [The Linux Kernel Archive](http://www.kernel.org/).

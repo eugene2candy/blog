@@ -6,6 +6,7 @@ author: CHENGJIE XU
 comments: true
 categories: []
 tags: []
+meta: ["Solution", "Tech"]
 ---
 
 When you bulid MC server by the method: [Running Minecraft Server On AWS](https://blog.sonjasper.com/2015/07/06/running-minecraft-server-on-aws.html).

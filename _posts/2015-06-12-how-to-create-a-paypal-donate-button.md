@@ -6,6 +6,7 @@ author: CHENGJIE XU
 comments: true
 categories: []
 tags: []
+meta: ["Solution", "Business"]
 ---
 
 Original writer is me: **[sonjasper.com](https://blog.sonjasper.com/2015/06/12/how-to-create-a-paypal-donate-button.html)**

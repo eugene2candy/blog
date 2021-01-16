@@ -6,6 +6,7 @@ author: CHENGJIE XU
 comments: true
 categories: []
 tags: []
+meta: "Tech"
 ---
 
 There are occasions when you need to modify a kernel module or create a new one.  This may be to add certain features or simply to apply a patch.  In this tutorial, we will attempt to apply a bug fix to an existing module and then install it.

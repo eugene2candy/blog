@@ -6,6 +6,7 @@ author: CHENGJIE XU
 comments: true
 categories: []
 tags: []
+meta: ["Solution", "Tech"]
 ---
 
 Original writer is me: **[sonjasper.com](https://blog.sonjasper.com/2015/06/11/python2-or-python3-an-advice-for-tyros.html)**
