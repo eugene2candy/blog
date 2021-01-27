@@ -33,9 +33,6 @@ and
 **Xbox Gamertag**:  XV15  
 **PSN**:  sonjasper  
 **NintendoSwitch**:  SW-7038-9578-3690  
-**QQ**: 105043487  
-**Wechat**: sonjasper_me  
-**Weibo**:  XV15  
 **WebSite**:  [sonjasper.com](https://sonjasper.com/)  
 
 # Buy me a coffee
