@@ -17,9 +17,11 @@ born in [Suzhou](https://en.wikipedia.org/wiki/Suzhou) (China)
 M\.Sc\. of Automotive Software Engineering at [TU Chemnitz](https://www.tu-chemnitz.de/) (Germany)  
 Master Thesis: Design of an Evaluation Platform for multimodal 3D Data
 
-**2018.07 - now:**  
-working at [EPAM Systems](https://www.epam.com/) (Suzhou)
+**2018.07 - 2021.05:**  
+worked at [EPAM Systems](https://www.epam.com/) (Suzhou)
 
+**2021.05 - now:**  
+working at [Microsoft](https://www.microsoft.com/en-us/ard/contactus) (Suzhou)
 # Hobby
 
 **Technology**
